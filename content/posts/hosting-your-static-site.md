@@ -1,9 +1,8 @@
 ---
-title: 'Hosting Your Static Site'
-date: 2018-12-29T10:24:47+10:00
-draft: false
----
+title: Hosting Your Static Site
+date: 2018-12-29 00:24:47 +0000
 
+---
 # Est et Lethaei olivae pecudesque pectus
 
 ## Vocabat cadentem terribili Sigei lecti erat claudit
@@ -19,6 +18,8 @@ citraque redeuntem atris: sanior.
 **Tibi effugimus faciem**; extrema tu numina certe tempora, est. Haec mitisque,
 par bovem ut **omni esset si** more induitur non fuerint abest vagatur;
 miscuerat sperneret Talia.
+
+![](/v1551931215/samples/animals/kitten-playing.gif)
 
 ## Fata ille laborem pulso Combe nobis has
 
@@ -45,7 +46,9 @@ Trachine ni.
 2. Sanguis non quot illi
 3. Significant vidit fraude et victa sidera et
 
-## Non emicuit solo
+    import flask as fl
+
+    c = 2 + 4
 
 Sonus fatum fugiuntque leves. Auxiliare omnes, hic genus est, magnis regnum;
 ille locis oculos. Posset atque dea. Tmolo dedit sit vincula pete, non frater
