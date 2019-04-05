@@ -5,33 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/services
-  label: Services
+  path: content
+  label: Pages
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
-  path: content/work
-  label: Work
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/authors
-  label: Authors
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/team
-  label: Team
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/privacy
-  label: Privacy
+  path: content/contact
+  label: Contact
   create: all
   match: "**/*"
 - type: directory
@@ -40,15 +20,35 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/contact
-  label: Contact
+  path: content/privacy
+  label: Privacy
   create: all
   match: "**/*"
 - type: directory
-  path: content
-  label: Pages
+  path: content/team
+  label: Team
   create: all
-  match: "*"
+  match: "**/*"
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/authors
+  label: Authors
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/work
+  label: Work
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/services
+  label: Services
+  create: all
+  match: "**/*"
 upload_dir: ''
 public_path: ''
 front_matter_path: ''
