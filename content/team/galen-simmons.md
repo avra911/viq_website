@@ -5,7 +5,7 @@ draft = true
 dribble_url = "https://dribbble.com/ausrobert"
 image = "team/joseph-gonzalez-399972-unsplash.jpg"
 jobtitle = "Art Director"
-title = "Galen Simmons"
+title = "Caroline Pinkas"
 weight = 2
 
 +++
